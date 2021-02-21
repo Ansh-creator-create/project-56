@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+div{
+    margin-top:15px;
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+.image
+margin-right:25px;
+margin-left: 25px;
+background-color: white
+    
+    
