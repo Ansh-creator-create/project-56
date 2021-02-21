@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: blue;
+    background-color: aqua;
 }
 div{
     margin-top:15px;
@@ -9,9 +9,16 @@ div{
     display: flex;
     justify-content: center;
 }
-.image
+.image{
 margin-right:25px;
 margin-left: 25px;
 background-color: white
-    
+}
+.edi1{
+    font-family: fantasy;
+    color: gold;
+    font-size: 14px;
+    font-weight: 100;
+}
+        
     
